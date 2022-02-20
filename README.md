@@ -1,5 +1,11 @@
 # echo-mongo-api
 
+Build a REST API with Golang, MongoDB, Echo
+
+* before clone project => create account in https://cloud.mongodb.com/
+* replace user & pass in .env file
+
+
 # Library
 "github.com/labstack/echo/v4" => is a framework for building web applications.
 
